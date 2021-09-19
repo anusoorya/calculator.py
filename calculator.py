@@ -1,3 +1,5 @@
+#calculator programme - ASSIGNMENT 1 
+
 def add(x, y):
     return x + y
 
@@ -31,6 +33,10 @@ while True:
 
         if choice == '1':
             print(num1, "+", num2, "=", add(num1, num2))
+            
+            
+            
+            
 
         elif choice == '2':
             print(num1, "-", num2, "=", subtract(num1, num2))
